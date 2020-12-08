@@ -6,8 +6,9 @@ Format: TSV file (tab-separated) with columns 1) original text, 2) fixed broken 
 
 
 # Contributors
-* Mohammad Sadegh Rasooli (Preprocessing and evaluations)
-* Farzaneh Bakhtyari (Annotation -- development data)
-* Fatemeh Shafiei (Annotation -- test data)
-* Mahsa Ravanbakhsh (Annotation -- test data)
+* [Mohammad Sadegh Rasooli](https://rasoolims.github.io/about/) (Preprocessing and evaluations)
+* [Farzaneh Bakhtyari](https://www.linkedin.com/in/farzane-bakhtiary-9ba62ba7/) (Annotation -- development data)
+* [Fatemeh Shafiei](https://www.linkedin.com/in/fatemehsh/) (Annotation -- test data)
+* [Mahsa Ravanbakhsh](https://www.linkedin.com/in/mahsa-ravanbakhsh-7332425b/) (Annotation -- test data)
+* [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) (Supervisor)
 
